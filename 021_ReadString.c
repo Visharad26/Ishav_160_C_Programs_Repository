@@ -1,4 +1,4 @@
-//A C Program to read the string anf=d give it as output. 			© Ishav Verma 19/March/2021
+//A C Program to read the string and give it as output. 			© Ishav Verma 19/March/2021
 #include <stdio.h>
 int main()
 {
